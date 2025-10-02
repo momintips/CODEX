@@ -4,7 +4,7 @@
 
 <p align="center"><b>Codex Banner</b <code></code></p>
 
-  [![Telegram2](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/alphacodex369)
+  [![Telegram2](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/momintipss)
 
 
 
@@ -20,7 +20,7 @@ apt upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/Alpha-Codex369/CODEX.git
+git clone https://github.com/momintips/CODEX.git
 ```
 ```
 cd CODEX/
@@ -41,7 +41,7 @@ exit
 ### AT ONCE :
 
 ```
-apt update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/Alpha-Codex369/CODEX.git ; cd CODEX/ ; chmod +x * ; bash install.sh
+apt update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/momintips/CODEX.git ; cd CODEX/ ; chmod +x * ; bash install.sh
 ```
 
 <details id="missing-code-coverage">
